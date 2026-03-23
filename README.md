@@ -8,7 +8,7 @@
 
 - **Frontend:** https://newsly-beta.vercel.app
 - **Backend API:** https://newsly-backend.vercel.app
-- **GitHub Repository:** https://github.com/AnujShahdeo2204/Newsly
+
 
 ## Tech Stack
 
