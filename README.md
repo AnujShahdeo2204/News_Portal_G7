@@ -100,7 +100,6 @@ node seedUsers.js
 
 - **Live App:** https://newsly-beta.vercel.app
 - **API Endpoint:** https://newsly-backend.vercel.app/api/news/headlines
-- **Source Code:** https://github.com/AnujShahdeo2204/Newsly
 - **News API Docs:** https://newsapi.org/docs
 
 ---
