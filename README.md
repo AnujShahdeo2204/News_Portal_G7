@@ -8,8 +8,7 @@
 
 - **Frontend:** https://newsly-beta.vercel.app
 - **Backend API:** https://newsly-backend.vercel.app
-- **GitHub Repository:** https://github.com/AnujShahdeo2204/Newsly
-
+- **GitHub Repository:** https://github.com/AnujShahdeo2204/News_Portal_G7.git
 ## Tech Stack
 
 | Layer | Technology |
@@ -100,7 +99,6 @@ node seedUsers.js
 
 - **Live App:** https://newsly-beta.vercel.app
 - **API Endpoint:** https://newsly-backend.vercel.app/api/news/headlines
-- **Source Code:** https://github.com/AnujShahdeo2204/Newsly
 - **News API Docs:** https://newsapi.org/docs
 
 ---
