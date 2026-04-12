@@ -1,5 +1,5 @@
 {
-    "name": "newsly-backend",
+    "name": "newsly-backend", 
     "version": "1.0.0",
     "description": "Newsly Backend API - Node.js + Express",
     "main": "server.js",
